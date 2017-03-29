@@ -1,4 +1,4 @@
-Thi shell mimics some functionality of the linux system shell. 
+This shell mimics some functionality of the linux system shell. 
 
 My shell supports: 
 - Multiple piping
